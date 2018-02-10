@@ -20,6 +20,8 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', 'C:\xampp\htdocs\wp-vs-494\wp-content\plugins\wp-super-cache/' );
 define('DB_NAME', 'wp_vs_4.9.4');
 
 /** MySQL database username */

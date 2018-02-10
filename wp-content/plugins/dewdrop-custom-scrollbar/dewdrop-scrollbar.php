@@ -45,7 +45,7 @@ add_action( 'admin_enqueue_scripts', 'color_picker_fucntion' );
 
 // Default values
 $scrollbar_options = array(
-	'cursor_color' => '#02b2fd',
+	'cursor_color' => '#2d2d2d',
 	'cursor_width' => '10px',
 	'cursor_border_width' => '0px',
 	'cursor_border_color' => '#1e1f23',
